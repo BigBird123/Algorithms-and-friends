@@ -4,7 +4,7 @@ Given an array of integers _**nums**_ which is sorted in ascending order, and an
 You must write an algorithm with _**O(log n)**_ runtime complexity.
 
 ### Related Topics
-     Array     Binary Search
+     Array     Binary_Search
 ### Example:
 Example 1:
     
