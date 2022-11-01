@@ -1,4 +1,4 @@
-# Binary Search - Difficulty: Easy
+# Sqrt(x)
 
 Given a non-negative integer _**x**_, return the square root of _**x**_ rounded down to the nearest integer. The returned integer should be **non-negative** as well.
 
