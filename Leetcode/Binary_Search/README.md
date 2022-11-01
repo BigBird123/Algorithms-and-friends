@@ -1,7 +1,7 @@
 # Binary Search - Difficulty: Easy
 
-Given an array of integers **nums** which is sorted in ascending order, and an integer **target**, write a function to search **target** in **nums**. If **target** exists, then return its index. Otherwise, return **-1**.
-You must write an algorithm with **O(log n)** runtime complexity.
+Given an array of integers _**nums**_ which is sorted in ascending order, and an integer _**target**_, write a function to search _**target**_ in _**nums**_. If _**target**_ exists, then return its index. Otherwise, return _**-1**_.
+You must write an algorithm with _**O(log n)**_ runtime complexity.
 
 ### Related Topics
      Array     Binary Search
