@@ -1,4 +1,4 @@
-# Guess Number Higher or Lower
+# Find First and Last Position of Element in Sorted Array
 
 Given an array of integers _**nums**_ sorted in non-decreasing order, find the starting and ending position of a given _**target**_ value.
 
