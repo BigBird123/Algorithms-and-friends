@@ -1,4 +1,4 @@
-# First Bad Version
+# Valid Parentheses
 
 Given a string _**s**_ containing just the characters _**'(', ')', '{', '}', '[', ']'**_  determine if the input string is valid.
 
